@@ -1,1 +1,1 @@
-# testDBSmartHomeUpgrade
+# Datenbank für App
